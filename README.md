@@ -8,5 +8,5 @@ El script esta estructurado de forma que se ayuda a comprender y se puede reapro
 ![pdf-to-xml2](https://github.com/jairo-andres-a-m/Script-Facturacion-Electronica/assets/124465699/d9915d31-70bb-4b7b-9cf3-c96aafbe7a86)
 
 
-El Script funciona basado en que La Facturacion Electronica proporciona de forma estandar un documento PDF y un archivo XML (el cual "construye" el PDF como tal). El formato XML (Extensible Markup Language) es un formato muy extendio, usado para transmitir informacion de forma estructurada entre aplicaciones, paginas web o bases de datos, este formato puede leerse como un arhivo plano de texto, el cual contiene etiquetas y tabulado que ayuda a representar la estructura.
+El Script funciona basado en que La Facturacion Electronica proporciona de forma estandar un documento PDF y un archivo XML (el cual "construye" el PDF como tal). El formato XML (Extensible Markup Language) es un formato muy extendio, usado para transmitir informacion de forma estructurada entre aplicaciones, paginas web o bases de datos, este formato puede leerse como un arhivo plano de texto, el cual contiene etiquetas y tabulado que ayuda a representar la estructura del contenido de la factura.
 
