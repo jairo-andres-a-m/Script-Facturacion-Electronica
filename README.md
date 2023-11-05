@@ -3,11 +3,11 @@ He creado este Script en Python para procesar de forma masiva facturas electrón
 
 - El script se puede reaprovechar para distintos proveedores cambiando los patrones de búsqueda **RegEx** en las funciones de búsqueda de cada dato.
 - El script está estructurado en bloques de funciones. Esto para más fácil comprensión, prueba o reutilización. Las partes son:
-  - Detección de los XML en una carpeta cuya dirección se ingresa
-  - Apertura de cada XML y guardado de su contenido
-  - Búsqueda de cada uno de los segmentos de texto necesitados (los datos a extraer, una funcion por dato) en el contenido
-  - Ordenación de estos segmentos en una tabla en un archivo CSV y su creación
-  - Adicionalmente también maneja los errores en caso de que los segmentos necesitados no se encuentre
+  - Detección de los XML en una carpeta cuya dirección se ingresa.
+  - Apertura de cada XML y guardado de su contenido.
+  - Búsqueda de cada uno de los segmentos de texto necesitados (los datos a extraer, una funcion por dato) en el contenido.
+  - Ordenación de estos segmentos en una tabla en un archivo CSV y su creación.
+  - Adicionalmente también maneja los errores en caso de que los segmentos necesitados no se encuentre.
 
 -------------------------------------------------------------------------------------------------------
 
