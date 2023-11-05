@@ -1,5 +1,6 @@
 # Script de extracción de datos de Facturacion Electrónica :page_with_curl:  
-He creado este Script en Python para procesar de forma masiva facturas electrónicas de un mismo proveedor. Este script lo he empleado como herramienta de ayuda en mi trabajo actual para automatizar pasos de un proceso en auditoria de costos, devolviéndome los datos necesitados en un archivo CSV el cual fácilmente se carga a Excel.
+He creado este Script en Python para procesar de forma masiva facturas electrónicas de un mismo proveedor. Ver codigo en este repositorio (↑ arriba).
+Este script lo he empleado como herramienta de ayuda en mi trabajo actual para automatizar pasos de un proceso en auditoria de costos, devolviéndome los datos necesitados en un archivo CSV el cual fácilmente se carga a Excel.
 
 - El script se puede reaprovechar para distintos proveedores cambiando los patrones de búsqueda **RegEx** en las funciones de búsqueda de cada dato.
 - El script está estructurado en bloques de funciones. Esto para más fácil comprensión, prueba o reutilización. Las partes son:
